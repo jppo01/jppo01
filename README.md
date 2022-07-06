@@ -31,7 +31,7 @@
   <img align="center" alt="JP-RUST" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
   <img align="center" alt="JP-C/C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="JP-BT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="JP-ANGULAR" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />">
+  <img align="center" alt="JP-ANGULAR" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
   
   ##
