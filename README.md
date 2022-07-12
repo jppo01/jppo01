@@ -29,6 +29,7 @@
   ##
   📚 ESTUDOS INICIADOS
  <div style="display: inline_block"><br>
+  <img align="center" alt="JP-TYPESCRIPT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="JP-RUST" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
   <img align="center" alt="JP-C/C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="JP-LARAVEL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
