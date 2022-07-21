@@ -58,7 +58,7 @@
   ##
 
 
-👷 Desenvolvendo para:
+👷 Projetos Freelancers:
   www.raiseweb.com.br
  
   ##
